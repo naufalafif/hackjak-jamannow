@@ -1,0 +1,11 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.9~svn20110310	//
+cm_services.py	../engine_py/cm_services.py	1;"	kind:file	line:1
+greetings	../engine_py/cm_services.py	/^def greetings(suhu=param1, hujan=param2):$/;"	kind:function	line:8
+param1	../engine_py/cm_services.py	/^param1 = sys.argv[1]$/;"	kind:variable	line:4
+param2	../engine_py/cm_services.py	/^param2 = sys.argv[2]$/;"	kind:variable	line:5
+tree	../engine_py/cm_services.py	/^tree = pkl.load(open('\/var\/www\/html\/hackjak\/engine_py\/tree.pkl', 'rb'))$/;"	kind:variable	line:6
